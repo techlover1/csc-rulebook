@@ -1,0 +1,8 @@
+site_name: CSC Rulebook
+theme: readthedocs
+nav:
+    - Introduction: introduction.md
+    - Gameplay Rules: gameplay-rules.md
+    - League Processes: league-processes.md
+    - CSC Conduct Guidelines: csc-conduct-guidelines.md
+    - Season Overview: season-overview.md
