@@ -1,4 +1,5 @@
 site_name: CSC Rulebook
+site_url: https://csconfederation.github.io/rulebook/
 theme: readthedocs
 nav:
     - Introduction: introduction.md
