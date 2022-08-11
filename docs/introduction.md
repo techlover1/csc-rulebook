@@ -1,38 +1,33 @@
-# Introduction
+# 1 Introduction
 The Counter Strike Confederation (CSC) is a different kind of Counter Strike Global Offensive experience: a persistent and evolving league designed to closely resemble and operate like a professional sports league, with General Managers who draft players, make trades, set rosters, and compete to be the powerhouse that every team strives to beat the following season. Our ultimate goal is to create a friendly environment for people to play competitive Counter Strike, regardless of their skill level.
 
 As of right now there are four leagues: Premier, Elite, Challenger, and Prospect, with the differentiation being as close to the middle of the skill range as possible.
 Improvement in players should be expected, widening the skill gap as the season progresses. Don’t be surprised to see someone a tier or two lower than their current ranks suggest!
 
+Admins, General Managers (GMs), and staff members can also be players. While in an ideal world there would be separation between many of these roles, we have found that the most passionate people want to be involved in more than one way; we can attribute much of our success to this. Therefore, we permit individuals to take roles that may potentially have conflicts of interest, and build systems into the league that minimize the effect these may have on the league and maximize fairness.
 
-## Definitions
-- A franchise is a group of teams led by a General Manager
-A tier is a group of teams, separated by skill level, who play against each other during the season.
+&emsp;
 
-- A team is a group of five (5) players or subset of those players within a franchise.
+## 1.1 What Are the Requirements to Join?
 
-- A free agent is someone who can substitute on a team, or sign with a team.
+**1.1.1**&emsp;Be sportsmanlike, kind, and polite. Be mature, regardless of your age. Respect everyone, whether they are your teammates or your rivals. Be aware that your sense of humor may not be universally shared, and words and actions that may be meaningless to you could be devastating to another.
 
-- A Permanent Free Agent can substitute for a team, but not sign to a team.
+**1.1.2**&emsp;Joining the CSC Discord is required.
 
-- Inactive Reserve (IR) is for players who have to take extended breaks from the league
+**1.1.2.1**&emsp;Leaving the CSC Discord is a one season ban from any events you are in, except in cases of hacked accounts or certain other issues. If you leave more than 75% into the season, you will be banned for the following season as well.
 
-## League Roles
-- A person who plays in the league is referred to in these rules as a player.
+**1.1.3**&emsp;Sign up for CSC through the indicated signup form before the close of the signup period each season. Be sure to fully and honestly fill out the form, or you may be rejected without warning.
 
-- The league is led by the 3 Admins of CSC, who primarily work with long-term decisions and projects. The league’s day-to-day activities are directed by Admins.
+**1.1.4**&emsp;To enter the league as a rookie or PermFA, your highest ranked account reported must have, at minimum, 20 matches played on Faceit. Rookies will have roughly a week after sign ups end to complete their 20 games in order to be a part of the draft. Players that do not reach this deadline but get all 20 games before pre-season game 3 (midnight ET) will be put into the FA pool.
 
-- The teams of the league are led by General Managers (GMs). Each GM is in charge of a grouping of teams known as a franchise. 
+**1.1.5**&emsp;These requirements are ongoing; if you are discovered to have violated one of them, you may be removed from the league
 
-- Assistant GMs (AGMs) are players who are tasked with assisting their GM in various tasks. There is no requirement as to what tier they must be in.
-    - AGMs can remain with a franchise if they are not playing the following season(s). Conditions: The AGM must have been involved in at least 1 season with CSC and the AGM cannot be on another franchise or a free agent.
+&emsp;
 
-- Captains are players who have been tasked by their GM to lead a team. There are no specific responsibilities or privileges associated with being a Captain, other than what their specific GM grants them. Captains are not permitted to see privileged information.
+## 1.2 Important Dates and Times
 
-- Admins, General Managers (GMs), and staff members can also be players. While in an ideal world there would be separation between many of these roles, we have found that the most passionate people want to be involved in more than one way; we can attribute much of our success to this. Therefore, we permit individuals to take roles that may potentially have conflicts of interest, and build systems into the league that minimize the effect these may have on the league and maximize fairness.
-    - The only exception to this rule is: GMs and AGMs may not hold the transaction manager role due to potential conflicts of interest
+**1.2.1**&emsp;Dates will be posted in the discord in #notices soon after the end of the past season.
 
-## CS:GO Bans
-asdf
+**1.2.2**&emsp;Combines begin at 9pm EST. Games are best of 1 and start at 10pm EST, with a scrimmage at 9pm. Playoff matches are best of 3 and start at 9pm EST.
 
-## Alternate Accounts
+---
