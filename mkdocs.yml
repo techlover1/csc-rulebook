@@ -3,7 +3,9 @@ site_url: https://csconfederation.github.io/rulebook/
 theme: readthedocs
 nav:
     - Introduction: introduction.md
-    - Gameplay Rules: gameplay-rules.md
-    - League Processes: league-processes.md
+    - League Info: league-info.md
     - CSC Conduct Guidelines: csc-conduct-guidelines.md
+    - League Processes: league-processes.md
+    - Transactions: transactions.md
+    - Gameplay Rules: gameplay-rules.md
     - Season Overview: season-overview.md
