@@ -62,6 +62,8 @@
 
 - **7.3.2**&emsp;In special cases, such as a lot of teams being added or very few players returning, draft odds can be set to equal for all teams, at the discretion of Admins.
 
+- **7.3.3**&emsp;In the case of a new team being added to a tier where they do not have a previous season record to apply the 7.3.1 formula, their odds will automatically become the max odds value (2).
+
 &emsp;
 
 ## Preseason
@@ -132,9 +134,7 @@
 
 - **10.1.4**&emsp;The playoffs will be played in a Best of 3 format.
 
-- **10.1.5**&emsp;The Finals will be set up similar to the rest of the playoffs with a Best of 3 structure. 
-
-- **10.1.6**&emsp;Playoff matches will be played against teams within the same conference until the finals.
+- **10.1.5**&emsp;The Finals will be set up similar to the rest of the playoffs with a Best of 3 structure.
 
 &emsp;
 
@@ -152,6 +152,6 @@
 
     - **10.3.1.1**&emsp;During this offseason, any new players which have signed up for the league will be evaluated by League Staff and entered into the draft for the next season. See the draft rules in Section 1.1.
 
-    - **10.3.1.2**&emsp;Transactions are closed until a future date, decided by the admins, between the start of combines and the next preseason. However for the duration of combines there will be a pre-season cut period, GMs may cut signed players outside of the normal transactions window.
+    - **10.3.1.2**&emsp;Transactions are closed until a future date, decided by the admins, between the start of combines and the next preseason. However for the duration of combines there will be an "Early" Transaction Window, GMs may cut and re-sign their players from the previous season outside of the normal transactions window.
 
 ---
