@@ -1,5 +1,7 @@
 # Gameplay Rules
 
+---
+
 ## 6.1 Match Information
 
 - **6.1.1**&emsp;For each regular season match, one game will be played. Each match will be between two teams. In the playoffs, a Best of 3 will be played.
@@ -28,9 +30,9 @@
 
     - **6.1.5.1**&emsp;Friendly Fire is enabled
 
-    - **6.1.5.2**&emsp;Pauses during a map will consist of four 30 second tactical pauses which may be used for any reason. In addition, there will be the ability to pause for technical issues. You may not use the technical pause for more than 10 minutes cumulatively per game. You may also not use the technical pause more than 2 times per game.
+    - **6.1.5.2**&emsp;Pauses during a map will consist of four 30 second tactical pauses which may be used for any reason. In addition, there will be the ability to pause for emergencies, technical issues and any non-tactical reason. You may not use the technical pause for more than 10 minutes cumulatively per game. You may also not use the technical pause more than 2 times per game. Handling abuses of timeouts are outlined in 6.1.5.3
 
-    - **6.1.5.3**&emsp;Prior to a forfeit, the opposing team must first tell your team to unpause. This will serve as a warning. If you do not unpause within a reasonable amount of time, a forfeit will take place. If you take another technical pause after your warning you will immediately be subject to forfeit. The process to claim a forfeit win is to tell an admin in #match-check-in. It must be verified that this is what transpired. While the verification process is happening, the game must remain paused. A unanimous admin vote is required for the forfeit to be valid. If the forfeit is found invalid, the match must be played out that night or at a later date, no later than one week after the scheduled match date.
+    - **6.1.5.3**&emsp;Misuse of timeouts are subject to forfeit at admin discretion. This includes using technical pauses for tactical purposes and exceeding technical pause time or number limitations. Exceeding technical pause limitations require the opposing team to report the incident after first giving one warning by instructing your team to unpause in game chat. You must unpause within a reasonable amount of time and may not take any further technical timeouts. To report misuse please open a general ticket. The game shall continue and be played out if possible. Then retroactively a vote of at least all admins but one will result in a forfeit.
 
 - **6.1.6**&emsp;A person may be in both match team comms and spectating the active match at the same time. A spectator or coach may not talk to players during the match.
 
@@ -48,7 +50,7 @@
 
 - **6.2.1**&emsp;CSC uses its own game servers for matches.
 
-    - **6.2.1.1**&emsp;Server location is set to Dallas by default, unless both teams agreed upon Chicago with prior notice to Admins.
+    - **6.2.1.1**&emsp;Server locations are Dallas and Chicago. The home team's preference, and in the case of playoffs, the higher seed's preference of server dictates which of these locations are chosen for the entire series. This preference should be communicated to the tech head. Any preference changes will take at least one match day (that the given team plays a complete game in) to go into effect unless at the start of the season. This preference is not guaranteed if there are server issues.
 
     - **6.2.1.2**&emsp;If a player has connection issues prior to all players being ready, there is an extra server available for use. This will be on a first come, first serve basis, and will be located in Dallas.
 
@@ -80,13 +82,18 @@
 
         - Moving through clipped areas where the movement is not intended by the design of the map is strictly forbidden (any walls, ceilings, floors etc).
         - The bomb may not be planted in a location where it cannot be defused. Planting the bomb in such a way that no one can hear the beeping sound, or the planting sound is also forbidden.
-        - Standing on top of teammates is generally allowed, it is only forbidden, when such actions allow the player to peek over, under and/or through a solid object (e.g. wall, box, ceiling) that should not be allowed according to map design.
+        - Boosts are generally allowed as long as they do not break other rules such as pixel walking or clipping, etc.
         - Pixel walking is forbidden. A player will be considered to be pixel walking if they sit or stand on invisible pixels on the map, where there is no visible edge.
         - Disrupting any map features with the use of items (e.g. stopping the train on Overpass) is not allowed.
         - Abusing bugs in server configuration or plugins to cause unintended functionality or to bypass intended restrictions.
-        - Intentionally throwing grenades that clip through parts of the map, such as the molotov in Vertigo mid that clips through the floor to lower B.
+        - Throwing molotovs purposely meant to clip/spread through walls or floors.
 
 - **6.3.2**&emsp;It is recommended to check with Admins to find out whether or not a certain bug or glitch is considered legal. Admins reserve the right to make changes, even retroactively, to this list, and rule use of bugs on a case by case basis.
+
+    - **6.3.2.1**&emsp;Examples of allowed bugs:
+
+        - Skybox mollies. Throwing molotovs/incendiary grenades further than they would normally be able to be thrown before exploding by taking advantage of skybox design on a given map.
+        - Silent drops. Players can exploit or clip onto displacement brushed (textured) surfaces when dropping to reduce fall speed. Completely halting vertical movement through this method for a visible amount of time is not allowed.
 
 &emsp;
 
@@ -109,6 +116,8 @@
 - **6.5.2**&emsp;Scores should be reported in the score reporting channels for the respective tier the match was played in.
 
 - **6.5.3**&emsp;For the purposes of tiebreakers, an OT result will include 15-15 plus the last overtime scoreline. (EX: A 22-18 score will count as a 19-15 score for tiebreakers)
+
+- **6.5.4**&emsp;Forfeits will result in a 16-0 scoreline.
 
 &emsp;
 

@@ -5,7 +5,7 @@
 ## 4.1 General League Notes
 
 - **4.1.1**&emsp;The concept of CSC is drawn from professional sports. CSC is composed of a series of tiers and franchises. Each franchise has no more than one team in each tier.
-- **4.1.2**&emsp;From highest to lowest, our tiers are Premier, Elite, Challenger, and Prospect. When the rules mention promotion, this refers to players moving from lower tiers to higher ones. When the rules mention demotion, this refers to players moving from higher tiers to lower tiers.
+- **4.1.2**&emsp;From highest to lowest, our tiers are Premier, Elite, Challenger, Contender, and Prospect. When the rules mention promotion, this refers to players moving from lower tiers to higher ones. When the rules mention demotion, this refers to players moving from higher tiers to lower tiers.
 - **4.1.3**&emsp;Each franchise has at most one team per tier. Teams do not move between tiers, but players may move between teams in different tiers.
 
 &emsp;
@@ -26,7 +26,7 @@
 
 - **4.2.2**&emsp;GMs are the ultimate authority for their team. This means a GM can delegate responsibilities to other members of their team. However, the GM will be the main point of contact to Admins, League Staff, and other teams’ GMs for all league activities, such as managing their rosters (trades/cuts/acquisitions, deciding who will play in the next match, etc).
 
-    - **4.2.2.1**&emsp;GMs can nominate up to 1 assistant GM, who can assume the responsibilities of that GM in their absence.
+    - **4.2.2.1**&emsp;GMs can nominate up to 1 assistant GM (up to 2 if they have teams in at least 4 tiers), who can assume the responsibilities of that GM in their absence.
 
     - **4.2.2.2**&emsp;The information shared with assistant GMs (channels, discussions, etc), should be kept confidential as outlined in Section 3.3.
 
@@ -35,6 +35,8 @@
     - **4.2.3.1**&emsp;A GM who wishes to return to their roster must treat this transaction the same as if they were picking up a Free Agent. Refer to Section 5.7.
 
 - **4.2.4**&emsp;If a GM who is not a player wishes to play in a future season, they must declare for the draft, and be drafted in the round which the Admins/League Staff specify.
+
+    - **4.2.4.1**&emsp;If a GM promotes themselves pre-draft, they may not demote themselves after the draft in the same season.
 
 &emsp;
 
@@ -78,7 +80,7 @@
 
 - **4.3.13**&emsp;GM’s and a player may agree to put a player on Inactive Reserve at any point in a season if they need to take an extended break. This allows a 6th man to join a roster temporarily.
 
-    - **4.3.13.1**&emsp;This break must last a minimum of 4 match days.
+    - **4.3.13.1**&emsp;This break must last a minimum of 4 match days. The duration of which will be determined by the length of unbroken absent match days in a given season and not when they were placed on IR.
 
     - **4.3.13.2**&emsp;The MMR of the 6th player replaces the MMR of the player on IR. MMR cap rules still apply.
 

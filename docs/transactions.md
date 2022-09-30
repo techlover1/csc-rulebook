@@ -46,7 +46,7 @@
 
 - **5.3.3**&emsp;This is a trade of the player and their contract. The player MMR and the length of their contract will not change during a trade.
 
-- **5.3.4**&emsp;Draft picks and players are only allowed to be traded within the same tier. This means a GM can not trade an Elite Player or draft picks for Prospect players or draft picks, vice versa. Once per season a GM may make a single transaction that bypasses this restriction.
+- **5.3.4**&emsp;Draft picks and players are only allowed to be traded within the same tier. This means a GM can not trade an Elite Player or draft picks for Prospect players or draft picks, vice versa. A GM may make three transactions that bypass this restriction per season. (Starting season 10)
 
     - **5.3.4.1**&emsp;Only picks for the next draft can be traded except during the offseason, when picks for the current and following season’s draft can be traded.
 
@@ -68,19 +68,9 @@
 
         - **5.3.4.3.2**&emsp;Only 1st, 2nd, 3rd, 4th and 5th round draft picks can be traded.
 
-        - **5.3.4.3.3**&emsp;All franchises must retain at least one pick in each round in all but a certain number of tiers.
+        - **5.3.4.3.3**&emsp;All franchises must maintain at least one pick in the first two rounds of each tier.
 
-            - **5.3.4.3.3.1**&emsp;All franchises must retain at least one 1st round draft pick in all but one tier.
-
-            - **5.3.4.3.3.2**&emsp;All franchises must retain at least one 2nd round draft pick in all but one tier.
-
-            - **5.3.4.3.3.3**&emsp;All franchises must retain at least one 3rd round draft pick in all but two tiers.
-
-            - **5.3.4.3.3.4**&emsp;All franchises must retain at least one 4th round draft pick in all but two tiers.
-
-            - **5.3.4.3.3.5**&emsp;All franchises must retain at least one 5th round draft pick in all but two tiers.
-
-            - **5.3.4.3.3.6**&emsp;All franchises must retain at least two of their first four picks in each tier.
+        - **5.3.4.3.4**&emsp;All franchises must maintain at least three picks in the first five rounds of each tier.
 
 &emsp;
 

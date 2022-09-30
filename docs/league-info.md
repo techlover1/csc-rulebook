@@ -74,7 +74,13 @@
 
 - **2.6.1**&emsp;A person who plays in the league is referred to in these rules as a player.
 
-- **2.6.2**&emsp;The league is led by the 4 Admins of CSC, who primarily work with long-term decisions and projects.
+- **2.6.2**&emsp;The league is led by the 5 Admins of CSC, who primarily work with long-term decisions and projects.
+
+    - **2.6.2.1**&emsp;An admin candidate must meet certain criteria in order to be an eligible candidate.
+        - **2.5.2.1.1**&emsp;You must be backed by the Backer Pool. This group will consist of any willing GM, Committee Head, or former admin (which includes admins at the end of their term) who is not running. In order to be officially backed by the pool, you must gain a vote of at least 20% of the pool (rounded up) in order to be eligible to be an active candidate for admin election discussion. You are encouraged to pursue more than this as if a backer decides to run after backing you they are eliminated from the pool.
+        - **2.5.2.1.2**&emsp;You must have participated in at least one season of CSC
+        - **2.5.2.1.3**&emsp;You may not currently have more than 1 serious strike or 2 normal strikes
+        - **2.5.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons
 
 - **2.6.3**&emsp;The league’s day-to-day activities are directed by Admins.
 
@@ -82,7 +88,9 @@
 
 - **2.6.5**&emsp;The teams of the league are led by General Managers (GMs). Each GM is in charge of a grouping of teams known as a franchise. Some GMs have additional roles. GMs can be players; however, special rules apply to these circumstances.
 
-    - **2.6.5.1**&emsp;A GM may have any Staff job other than Transaction Manager.
+    - **2.6.5.1**&emsp;A GM or AGM may have any Staff job other than Transaction Manager, Admin.
+
+        - **2.5.5.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on the technical or formula side. 
 
     - **2.6.5.2**&emsp;If a GM is a player, this rule supersedes the rules for players becoming Staff. The restrictions on which jobs may be taken still apply in addition to the restrictions in this rule.
 
