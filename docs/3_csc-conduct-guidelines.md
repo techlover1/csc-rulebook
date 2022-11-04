@@ -27,6 +27,7 @@
 - **3.2.3**&emsp;Admins reserve the right to remove a GM at any point, without warning, if they feel that a GM is not meeting the above expectations.
 
 - **3.2.4**&emsp;The position of General Manager is considered a privilege, not a right, for all members of CSC who achieve the position. All GMs are reviewed following incidents of concern and after every season, if needed.
+- **3.2.5**&emsp;A GM that contacts a contracted player from a different franchise with the intention of getting that player to join their franchise and without the player's GM's permission will be subject to punishment at admin discretion. Direct evidence of this contact/intention is required.
 
 &emsp;
 
