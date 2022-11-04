@@ -2,12 +2,12 @@ site_name: CSC Rulebook
 site_url: https://csconfederation.github.io/rulebook/
 theme: readthedocs
 nav:
-    - Introduction: 1.introduction.md
-    - League Info: 2.league-info.md
-    - CSC Conduct Guidelines: 3.csc-conduct-guidelines.md
-    - League Processes: 4.league-processes.md
-    - Transactions: 5.transactions.md
-    - Gameplay Rules: 6.gameplay-rules.md
-    - Season Overview: 7.season-overview.md
-    - Rules Committee Policies: X.rc-policies.md
-    - Appendix: Y.appendix.md
+    - Introduction: 1_introduction.md
+    - League Info: 2_league-info.md
+    - CSC Conduct Guidelines: 3_csc-conduct-guidelines.md
+    - League Processes: 4_league-processes.md
+    - Transactions: 5_transactions.md
+    - Gameplay Rules: 6_gameplay-rules.md
+    - Season Overview: 7_season-overview.md
+    - Rules Committee Policies: X_rc-policies.md
+    - Appendix: Y_appendix.md
