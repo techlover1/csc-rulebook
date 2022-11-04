@@ -154,9 +154,7 @@
 
 ## 5.7	Free Agents
 
-- **5.7.1**&emsp;Free Agents have the option to choose which franchise to join if multiple franchises make offers, as long as they are not on waivers. They can choose to decline all offers to remain a Free Agent. Refer to Section 4.3 for contract information.
-
-    - **5.7.1.1**&emsp;The Free Agent can wait out their waiver period then sign to any team they would like.
+- **5.7.1**&emsp;Free Agents have the option of which franchise to join if multiple Franchises make offers. They can also choose to decline all offers and remain a Free Agent. Free Agents cannot exercise this choice for Waiver claims. See Section 5.2 for Waiver rules.
 
 - **5.7.2**&emsp;GMs and Free Agents may sign Free Agent Temporary Contracts for one match day. This is a substitution, as outlined in Section 5.4. The Free Agent’s contract MMR replaces the absent player’s contract MMR.
 
