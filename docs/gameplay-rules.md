@@ -54,15 +54,13 @@
 
     - **6.2.1.2**&emsp;If a player has connection issues prior to all players being ready, there is an extra server available for use. This will be on a first come, first serve basis, and will be located in Dallas.
 
-- **6.2.2**&emsp;The map selection for the game will come to a veto vote where the captain of each team will switch off vetoing maps in the following format: Team A, Team B, Team B, Team A, Team B, then Team A will choose between the final two maps.
-
-    - **6.2.2.1**&emsp;The home team functions as Team A; the Away team functions as Team B.
+- **6.2.2**&emsp;The map selection for the game will come to a veto vote where the captain of each team will switch off vetoing maps in the following format: Away Team, Home Team, Away Team, Home Team, Away Team, then Home Team will choose between the final two maps.
 
 - **6.2.3**&emsp;During playoffs, the better seeded team will choose whether they veto first or second. The order is as follows: veto-veto, pick-pick, veto-veto, with one map remaining. One team selects their starting side on their opponent’s map pick. Map 3 is decided by a knife round.
 
 - **6.2.4**&emsp;A knife round will occur to determine which team selects the side they want to start on in the preseason, regular season, and map 3 of the playoffs.
 
-- **6.2.5**&emsp;If for any reason a server restart occurs, the outcomes of previous map veto selections, knife rounds, or side selections must be duplicated as they had been determined.
+- **6.2.5**&emsp;If for any reason a server restart occurs, the outcomes of previous map veto selections, knife rounds, or side selections must be duplicated as they had been determined except for if the server was restarted to change an unintended selection/result then the erroneous selections/results may be changed. Both teams must consent to the change unless it is a mandated outcome (for example: team that should get side choice in playoffs winning knife round).
 
 - **6.2.6**&emsp;Teams MUST join/start their match server at game time, unless otherwise agreed upon for another time by the respective GMs and they have notified the League Staff in their respective transaction channels.
 
