@@ -136,6 +136,8 @@
 
 - **10.1.5**&emsp;The Finals will be set up similar to the rest of the playoffs with a Best of 3 structure.
 
+- **10.1.6**&emsp;During playoffs a team may have only one active temp at a time.
+
 &emsp;
 
 ### 10.2 Other Playoff Rules
