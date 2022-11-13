@@ -4,7 +4,7 @@
 
 ## 5.1	General Transactions
 
-- **5.1.1**&emsp;Transaction deadline is 9:59 PM ET, 2 match days before the start of playoffs. After this, teams can only use one sub per match day.
+- **5.1.1**&emsp;Transaction deadline is 9:30 PM ET, 2 match days before the start of playoffs.
 
 - **5.1.2**&emsp;Any transaction requests posted 30 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
