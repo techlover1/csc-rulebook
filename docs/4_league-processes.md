@@ -98,6 +98,8 @@
 
     - **4.4.1.3**&emsp;Teams may never have more than five (5) players during the season, except between the draft and the day before match day 1.
 
+    - **4.4.1.4**&emsp;A franchise may not have more than one admin on it (playing or non-playing).
+
 - **4.4.2**&emsp;There are no set games played required for any rostered player.
 
 - **4.4.3**&emsp;Teams will still be allowed to play in a match should a team suffer a player loss outside of their control in the season, resulting in having 4 active players.
