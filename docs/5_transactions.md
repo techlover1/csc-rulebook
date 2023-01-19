@@ -106,13 +106,25 @@
 
 ## 5.5	Cuts
 
-- **5.5.1**&emsp;All players are subject to be cut from their team at any time, and for any reason, by their GM.
+- **5.5.1**&emsp;All players may be subject to be cut from their team for any reason by their GM.
 
-- **5.5.2**&emsp;Contracted players who are cut will go through a waiver period where they can be picked up by another team should that team’s GM decide to acquire them, and their existing contract.
+- **5.5.2**&emsp;Players who are cut generally become Free Agents, with some exceptions:
 
-- **5.5.3**&emsp;Players who went through the draft in the current season do not go through waivers if they are cut prior to the Roster Lock.
+    -**5.5.2.1**&emsp;Pre draft, a player who requests to get cut due to an inability to play is removed from the active player pool. They may sign up to play as a PFA.
 
-- **5.5.4**&emsp;Cut players who are not picked up on waivers will become uncontracted Free Agents.
+        -**5.5.2.1.1**&emsp;If, during that same season, the player returns to the league pre-draft as a nonPFA, the franchise from which they were removed retains their original contract. 
+
+        -**5.5.2.1.2**&emsp;If, during that same season, the player returns to the league post-draft, they must return as a PFA
+
+    -**5.5.2.2**&emsp;Post draft, a player who requests to get cut because of an inability to play becomes a PFA
+
+    -**5.5.2.3**&emsp;Players who request to be cut to explore waivers or free agency become Free Agents.
+
+    -**5.5.2.4**&emsp;Players who request to be cut to explore the draft in the off season become Draft Eligible.
+
+- **5.5.3**&emsp;In addition to becoming FAs, contracted players cut in the preseason or regular season go through a waiver period. The waiver process is detailed in the rulebook under 5.2.
+
+- **5.5.4**&emsp;Players who enter the draft uncontracted (DE/FA) in the current season do not go through waivers if they are cut prior to the Roster Lock.
 
 - **5.5.5**&emsp;A cut player cannot be picked up by the same team until two match days have passed.
 
