@@ -8,21 +8,21 @@
 
 - **6.1.2**&emsp;League matches will be played on the most up-to-date patch for all game settings including any and all weapon buffs and nerfs, even if the patch takes place mid-season. This does not include an updated map pool.
 
-- **6.1.3**&emsp;League matches will only be played on maps from the current competitive rotation at the start of the season which is defined by the conclusion of the draft. These maps are:
+- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 10 these maps are:
 
-    - **6.1.3.1**&emsp;Dust 2
+    - Anubis
 
-    - **6.1.3.2**&emsp;Mirage
+    - Mirage
 
-    - **6.1.3.3**&emsp;Overpass
+    - Overpass
 
-    - **6.1.3.4**&emsp;Nuke
+    - Nuke
 
-    - **6.1.3.5**&emsp;Vertigo
+    - Vertigo
 
-    - **6.1.3.6**&emsp;Inferno
+    - Inferno
 
-    - **6.1.3.7**&emsp;Ancient
+    - Ancient
 
 - **6.1.4**&emsp;If the competitive map pool changes during a CSC season, our pool will remain as is until the following season.
 
