@@ -110,17 +110,17 @@
 
 - **5.5.2**&emsp;Players who are cut generally become Free Agents, with some exceptions:
 
-    -**5.5.2.1**&emsp;Pre draft, a player who requests to get cut due to an inability to play is removed from the active player pool. They may sign up to play as a PFA.
+    - **5.5.2.1**&emsp;Pre draft, a player who requests to get cut due to an inability to play is removed from the active player pool. They may sign up to play as a PFA.
 
-        -**5.5.2.1.1**&emsp;If, during that same season, the player returns to the league pre-draft as a nonPFA, the franchise from which they were removed retains their original contract. 
+        - **5.5.2.1.1**&emsp;If, during that same season, the player returns to the league pre-draft as a nonPFA, the franchise from which they were removed retains their original contract. 
 
-        -**5.5.2.1.2**&emsp;If, during that same season, the player returns to the league post-draft, they must return as a PFA
+        - **5.5.2.1.2**&emsp;If, during that same season, the player returns to the league post-draft, they must return as a PFA
 
-    -**5.5.2.2**&emsp;Post draft, a player who requests to get cut because of an inability to play becomes a PFA
+    - **5.5.2.2**&emsp;Post draft, a player who requests to get cut because of an inability to play becomes a PFA
 
-    -**5.5.2.3**&emsp;Players who request to be cut to explore waivers or free agency become Free Agents.
+    - **5.5.2.3**&emsp;Players who request to be cut to explore waivers or free agency become Free Agents.
 
-    -**5.5.2.4**&emsp;Players who request to be cut to explore the draft in the off season become Draft Eligible.
+    - **5.5.2.4**&emsp;Players who request to be cut to explore the draft in the off season become Draft Eligible.
 
 - **5.5.3**&emsp;In addition to becoming FAs, contracted players cut in the preseason or regular season go through a waiver period. The waiver process is detailed in the rulebook under 5.2.
 
