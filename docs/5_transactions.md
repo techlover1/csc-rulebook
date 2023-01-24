@@ -36,6 +36,8 @@
 
 - **5.2.7**&emsp;Under no circumstance will GMs be put on waivers.
 
+- **5.2.8**&emsp;Cut players who are not picked up on waivers can explore Free Agency without any restrictions. Free Agency is detailed in the rulebook under 5.7.
+
 &emsp;
 
 ## 5.3	Trades
