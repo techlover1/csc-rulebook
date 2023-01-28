@@ -46,7 +46,7 @@
 
 - **7.1.14**&emsp;If a GM or their representative does not select a pick in a reasonable timeframe as determined by League Staff or is unable to continue the draft, their pick will be selected by League Staff each round based on the highest available MMR player.
 
-- **7.1.15**&emsp;The draft is held live on Twitch. All GMs are required to be present in the GM Room Discord channel (or another channel as indicated by League Staff) for the duration of the draft. See Section 1.1.13 for when a GM cannot be present.
+- **7.1.15**&emsp;The draft is held live on Twitch. All GMs are required to be present in the GM Room Discord channel (or another channel as indicated by League Staff) for the duration of the draft. See [Section 1.1.13](1_introduction.md#11-what-are-the-requirements-to-join) for when a GM cannot be present.
 
 ### 7.2 Draft Lottery
 
@@ -152,7 +152,7 @@
 
 - **10.3.1**&emsp;After the playoffs, there will be an offseason.
 
-    - **10.3.1.1**&emsp;During this offseason, any new players which have signed up for the league will be evaluated by League Staff and entered into the draft for the next season. See the draft rules in Section 1.1.
+    - **10.3.1.1**&emsp;During this offseason, any new players which have signed up for the league will be evaluated by League Staff and entered into the draft for the next season. See the draft rules in [Section 1.1](1_introduction.md#11-what-are-the-requirements-to-join).
 
     - **10.3.1.2**&emsp;Transactions are closed until a future date, decided by the admins, between the start of combines and the next preseason. However for the duration of combines there will be an "Early" Transaction Window, GMs may cut and re-sign their players from the previous season outside of the normal transactions window.
 
