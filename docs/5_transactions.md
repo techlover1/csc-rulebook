@@ -140,7 +140,7 @@
 
 - **5.6.2**&emsp;If a player is promoted post-draft, they will remain on the team they were promoted to unless they are cut or demoted.
 
-- **5.6.3**&emsp;A player can only be demoted one tier at a time. This means that a player cannot be relegated from the Elite tier to the Prospect tier, for example. Refer to Section 4.1.2 for tier hierarchy.
+- **5.6.3**&emsp;A player can only be demoted one tier at a time. This means that a player cannot be relegated from the Elite tier to the Prospect tier, for example. Refer to [Section 4.1.2](4_league-processes.md#41-general-league-notes) for tier hierarchy.
 
 - **5.6.4**&emsp;A player demoted to a lower tier cannot be promoted back to the higher tier until the end of their waiver period.
 
@@ -168,9 +168,9 @@
 
 ## 5.7	Free Agents
 
-- **5.7.1**&emsp;Free Agents have the option of which franchise to join if multiple Franchises make offers. They can also choose to decline all offers and remain a Free Agent. Free Agents cannot exercise this choice for Waiver claims. See Section 5.2 for Waiver rules.
+- **5.7.1**&emsp;Free Agents have the option of which franchise to join if multiple Franchises make offers. They can also choose to decline all offers and remain a Free Agent. Free Agents cannot exercise this choice for Waiver claims. See [Section 5.2](5_transactions.md#52-waivers) for Waiver rules.
 
-- **5.7.2**&emsp;GMs and Free Agents may sign Free Agent Temporary Contracts for one match day. This is a substitution, as outlined in Section 5.4. The Free Agent’s contract MMR replaces the absent player’s contract MMR.
+- **5.7.2**&emsp;GMs and Free Agents may sign Free Agent Temporary Contracts for one match day. This is a substitution, as outlined in [Section 5.4](5_transactions.md#54-substitutions). The Free Agent’s contract MMR replaces the absent player’s contract MMR.
 
     - **5.7.2.1**&emsp;The Free Agent has the option to choose which team to substitute for if multiple teams make offers, and they can choose to decline a temporary contract with no consequences.
 
@@ -188,7 +188,7 @@
 
         - **5.7.3.1.1**&emsp;Only permanent free agents who were permanent free agents when the tier was confirmed to have less than 1/3 free agents per team will be eligible to be promoted to regular free agency.
 
-        - **5.7.3.1.2**&emsp;Any permanent free agents moved to normal free agency via this method will immediately go on waivers following the rules in Section 5.2.
+        - **5.7.3.1.2**&emsp;Any permanent free agents moved to normal free agency via this method will immediately go on waivers following the rules in [Section 5.2](5_transactions.md#52-waivers).
 
         - **5.7.3.1.3**&emsp;This process can only be done in the first 3/4 of the season, after which no more permanent free agents may be added to the regular free agency pool
 
