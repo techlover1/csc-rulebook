@@ -1,6 +1,7 @@
 site_name: CSC Rulebook
 site_url: https://techlover1.github.io/rulebook/
 theme:
+  name: material
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
