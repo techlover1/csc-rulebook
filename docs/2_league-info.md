@@ -38,17 +38,15 @@
 
 - **2.4.1**&emsp;Players with banned accounts must disclose them to CSC during signups. Some banned accounts may cause the player to be ineligible to play.
 
-- **2.4.2**&emsp;Players permanently banned by Valve, Faceit, or ESEA may be eligible to play in CSC if the account in question falls under these categories:
+- **2.4.2**&emsp;Players actively or formerly banned by Valve, Faceit, or ESEA may be eligible to play in CSC if the account in question falls under these categories:
 
-    - **2.4.2.1**&emsp;It is a CS:GO VAC banned account that was banned over two years ago.
+    - **2.4.2.1**&emsp;It is a Valve, Faceit, or ESEA account that was banned over three years ago.
 
-    - **2.4.2.2**&emsp;It is a Faceit banned account that was successfully appealed (proof of the successful appeal is required).
+    - **2.4.2.2**&emsp;It is a banned account that was successfully appealed (proof of the successful appeal is required).
 
-    - **2.4.2.3**&emsp;It is a Faceit banned account that was banned as a result of a VAC ban from over two years ago.
+    - **2.4.2.3**&emsp;The account is not banned for cheating or ban evasion (proof of this is required)
 
-    - **2.4.2.4**&emsp;The account is not banned for cheating or ban evasion (proof of this is required)
-
-    - **2.4.2.5**&emsp;If a banned account is not reported, but would not warrant a ban from the league or a change in the players MMR, the player will be suspended for 2 regular season match days.
+    - **2.4.2.4**&emsp;If a banned account is not reported, but would not warrant a ban from the league or a change in the players MMR, the player will be suspended for 2 regular season match days.
 
 - **2.4.3**&emsp;If there is a wave of inaccurate bans (evidence of this must be verifiable somewhere) admins may, at their discretion, allow players to play despite bans.
 

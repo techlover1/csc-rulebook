@@ -28,11 +28,11 @@
 
     - **4.2.2.1**&emsp;GMs can nominate up to 1 assistant GM (up to 2 if they have teams in at least 4 tiers), who can assume the responsibilities of that GM in their absence.
 
-    - **4.2.2.2**&emsp;The information shared with assistant GMs (channels, discussions, etc), should be kept confidential as outlined in Section 3.3.
+    - **4.2.2.2**&emsp;The information shared with assistant GMs (channels, discussions, etc), should be kept confidential as outlined in [Section 3.3](3_csc-conduct-guidelines.md#33-privileged-knowledge).
 
 - **4.2.3**&emsp;GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent, but they will be eligible to return to their own roster during the season.
 
-    - **4.2.3.1**&emsp;A GM who wishes to return to their roster must treat this transaction the same as if they were picking up a Free Agent. Refer to Section 5.7.
+    - **4.2.3.1**&emsp;A GM who wishes to return to their roster must treat this transaction the same as if they were picking up a Free Agent. Refer to [Section 5.7](5_transactions.md#57-free-agents).
 
 - **4.2.4**&emsp;If a GM who is not a player wishes to play in a future season, they must declare for the draft, and be drafted in the round which the Admins/League Staff specify.
 
@@ -74,7 +74,7 @@
 
     - **4.3.10.2**&emsp;If they do not renew the contract by the contract renewal deadline they become a regular free agent (they do not go through waivers) and can be signed or get picked up in the draft.
 
-- **4.3.11**&emsp;A GM may choose to update a player’s Current Effective Contract MMR to the minimum individual player MMR of the higher tier to allow that player to qualify for that tier. Refer to Section 5.6 for promotion rules.
+- **4.3.11**&emsp;A GM may choose to update a player’s Current Effective Contract MMR to the minimum individual player MMR of the higher tier to allow that player to qualify for that tier. Refer to [Section 5.6](5_transactions.md#57-free-agents) for promotion rules.
 
 - **4.3.12**&emsp;Any free agent signing or contract renewal requires proof of agreement to be posted in the GM's transaction channel.
 
@@ -97,6 +97,8 @@
     - **4.4.1.2**&emsp;A team may not have less than five (5) rostered players.
 
     - **4.4.1.3**&emsp;Teams may never have more than five (5) players during the season, except between the draft and the day before match day 1.
+
+    - **4.4.1.4**&emsp;A franchise may not have more than one admin on it (playing or non-playing).
 
 - **4.4.2**&emsp;There are no set games played required for any rostered player.
 

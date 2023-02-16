@@ -4,7 +4,7 @@
 
 ## 5.1	General Transactions
 
-- **5.1.1**&emsp;Transaction deadline is 9:59 PM ET, 2 match days before the start of playoffs. After this, teams can only use one sub per match day.
+- **5.1.1**&emsp;Transaction deadline is 9:30 PM ET, 2 match days before the start of playoffs.
 
 - **5.1.2**&emsp;Any transaction requests posted 30 minutes before a match start time will be handled by a Transaction Manager, provided that they are posted in the appropriate transaction channel, with all needed evidence, and satisfy all roster and other transaction rules.
 
@@ -35,6 +35,8 @@
 - **5.2.6**&emsp;All GMs who wish to acquire a player on waivers must notify Transaction Managers during the waiver period, using their transaction channel.
 
 - **5.2.7**&emsp;Under no circumstance will GMs be put on waivers.
+
+- **5.2.8**&emsp;Cut players who are not picked up on waivers can explore Free Agency without any restrictions. Free Agency is detailed in the rulebook under 5.7.
 
 &emsp;
 
@@ -106,13 +108,25 @@
 
 ## 5.5	Cuts
 
-- **5.5.1**&emsp;All players are subject to be cut from their team at any time, and for any reason, by their GM.
+- **5.5.1**&emsp;All players may be subject to be cut from their team for any reason by their GM.
 
-- **5.5.2**&emsp;Contracted players who are cut will go through a waiver period where they can be picked up by another team should that team’s GM decide to acquire them, and their existing contract.
+- **5.5.2**&emsp;Players who are cut generally become Free Agents, with some exceptions:
 
-- **5.5.3**&emsp;Players who went through the draft in the current season do not go through waivers if they are cut prior to the Roster Lock.
+    - **5.5.2.1**&emsp;Pre draft, a player who requests to get cut due to an inability to play is removed from the active player pool. They may sign up to play as a PFA.
 
-- **5.5.4**&emsp;Cut players who are not picked up on waivers will become uncontracted Free Agents.
+        - **5.5.2.1.1**&emsp;If, during that same season, the player returns to the league pre-draft as a nonPFA, the franchise from which they were removed retains their original contract. 
+
+        - **5.5.2.1.2**&emsp;If, during that same season, the player returns to the league post-draft, they must return as a PFA
+
+    - **5.5.2.2**&emsp;Post draft, a player who requests to get cut because of an inability to play becomes a PFA
+
+    - **5.5.2.3**&emsp;Players who request to be cut to explore waivers or free agency become Free Agents.
+
+    - **5.5.2.4**&emsp;Players who request to be cut to explore the draft in the off season become Draft Eligible.
+
+- **5.5.3**&emsp;In addition to becoming FAs, contracted players cut in the preseason or regular season go through a waiver period. The waiver process is detailed in the rulebook under 5.2.
+
+- **5.5.4**&emsp;Players who enter the draft uncontracted (DE/FA) in the current season do not go through waivers if they are cut prior to the Roster Lock.
 
 - **5.5.5**&emsp;A cut player cannot be picked up by the same team until two match days have passed.
 
@@ -126,7 +140,7 @@
 
 - **5.6.2**&emsp;If a player is promoted post-draft, they will remain on the team they were promoted to unless they are cut or demoted.
 
-- **5.6.3**&emsp;A player can only be demoted one tier at a time. This means that a player cannot be relegated from the Elite tier to the Prospect tier, for example. Refer to Section 4.1.2 for tier hierarchy.
+- **5.6.3**&emsp;A player can only be demoted one tier at a time. This means that a player cannot be relegated from the Elite tier to the Prospect tier, for example. Refer to [Section 4.1.2](4_league-processes.md#41-general-league-notes) for tier hierarchy.
 
 - **5.6.4**&emsp;A player demoted to a lower tier cannot be promoted back to the higher tier until the end of their waiver period.
 
@@ -154,11 +168,9 @@
 
 ## 5.7	Free Agents
 
-- **5.7.1**&emsp;Free Agents have the option to choose which franchise to join if multiple franchises make offers, as long as they are not on waivers. They can choose to decline all offers to remain a Free Agent. Refer to Section 4.3 for contract information.
+- **5.7.1**&emsp;Free Agents have the option of which franchise to join if multiple Franchises make offers. They can also choose to decline all offers and remain a Free Agent. Free Agents cannot exercise this choice for Waiver claims. See [Section 5.2](5_transactions.md#52-waivers) for Waiver rules.
 
-    - **5.7.1.1**&emsp;The Free Agent can wait out their waiver period then sign to any team they would like.
-
-- **5.7.2**&emsp;GMs and Free Agents may sign Free Agent Temporary Contracts for one match day. This is a substitution, as outlined in Section 5.4. The Free Agent’s contract MMR replaces the absent player’s contract MMR.
+- **5.7.2**&emsp;GMs and Free Agents may sign Free Agent Temporary Contracts for one match day. This is a substitution, as outlined in [Section 5.4](5_transactions.md#54-substitutions). The Free Agent’s contract MMR replaces the absent player’s contract MMR.
 
     - **5.7.2.1**&emsp;The Free Agent has the option to choose which team to substitute for if multiple teams make offers, and they can choose to decline a temporary contract with no consequences.
 
@@ -176,7 +188,7 @@
 
         - **5.7.3.1.1**&emsp;Only permanent free agents who were permanent free agents when the tier was confirmed to have less than 1/3 free agents per team will be eligible to be promoted to regular free agency.
 
-        - **5.7.3.1.2**&emsp;Any permanent free agents moved to normal free agency via this method will immediately go on waivers following the rules in Section 5.2.
+        - **5.7.3.1.2**&emsp;Any permanent free agents moved to normal free agency via this method will immediately go on waivers following the rules in [Section 5.2](5_transactions.md#52-waivers).
 
         - **5.7.3.1.3**&emsp;This process can only be done in the first 3/4 of the season, after which no more permanent free agents may be added to the regular free agency pool
 

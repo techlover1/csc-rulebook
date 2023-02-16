@@ -8,41 +8,43 @@
 
 - **6.1.2**&emsp;League matches will be played on the most up-to-date patch for all game settings including any and all weapon buffs and nerfs, even if the patch takes place mid-season. This does not include an updated map pool.
 
-- **6.1.3**&emsp;League matches will only be played on maps from the current competitive rotation at the start of the season which is defined by the conclusion of the draft. These maps are:
+- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 10 these maps are:
 
-    - **6.1.3.1**&emsp;Dust 2
+    - Anubis
 
-    - **6.1.3.2**&emsp;Mirage
+    - Mirage
 
-    - **6.1.3.3**&emsp;Overpass
+    - Overpass
 
-    - **6.1.3.4**&emsp;Nuke
+    - Nuke
 
-    - **6.1.3.5**&emsp;Vertigo
+    - Vertigo
 
-    - **6.1.3.6**&emsp;Inferno
+    - Inferno
 
-    - **6.1.3.7**&emsp;Ancient
+    - Ancient
 
 - **6.1.4**&emsp;If the competitive map pool changes during a CSC season, our pool will remain as is until the following season.
 
 - **6.1.5**&emsp;Games will be played with the following server settings:
 
-    - **6.1.5.1**&emsp;Friendly Fire is enabled
+    - **6.1.5.1**&emsp;MR15 (i.e., 15 rounds per half, best of 30)
+           - Round time: 1 minute 55 seconds
+           - Bomb timer: 40 seconds
+           - Freeze time: 20 seconds
+           - Buy time: 20 seconds
+           - Round restart delay: 7 seconds
+           - Halftime: 30 seconds
 
-    - **6.1.5.2**&emsp;Pauses during a map will consist of four 30 second tactical pauses which may be used for any reason. In addition, there will be the ability to pause for emergencies, technical issues and any non-tactical reason. You may not use the technical pause for more than 10 minutes cumulatively per game. You may also not use the technical pause more than 2 times per game. Handling abuses of timeouts are outlined in 6.1.5.3
+    - **6.1.5.2**&emsp;Friendly Fire Enabled
 
-    - **6.1.5.3**&emsp;Misuse of timeouts are subject to forfeit at admin discretion. This includes using technical pauses for tactical purposes and exceeding technical pause time or number limitations. Exceeding technical pause limitations require the opposing team to report the incident after first giving one warning by instructing your team to unpause in game chat. You must unpause within a reasonable amount of time and may not take any further technical timeouts. To report misuse please open a general ticket. The game shall continue and be played out if possible. Then retroactively a vote of at least all admins but one will result in a forfeit.
+    - **6.1.5.3**&emsp;Overtime enabled (MR3, $12500 starting money)
 
-- **6.1.6**&emsp;A person may be in both match team comms and spectating the active match at the same time. A spectator or coach may not talk to players during the match.
+- **6.1.6**&emsp;Timeouts
 
-    - **6.1.6.1**&emsp;Evidence of a person, who is not actively playing in the match, coaching or providing any kind of competitive assistance during the game may result in a retroactive game forfeit.
+    - **6.1.6.1**&emsp;Per map, each team can use 4 tactical timeouts of 30 seconds each; tactical timeouts can be used for any reason. Each team may also use up to two technical pauses totaling ten minutes for emergencies, tech issues, or any other non-tactical reason.
 
-- **6.1.7**&emsp;If a match has a score of 15-15 at the end of regulation, it will continue into overtime
-
-    - **6.1.7.1**&emsp;Overtimes will have two halves of 3 rounds (totalling 6 rounds per overtime period) until one team wins 4 out of the 6 rounds.
-
-    - **6.1.7.2**&emsp;Starting money in each half of overtime will be $12,500
+    - **6.1.6.2**&emsp;Misuse of timeouts may result in a retroactive forfeit at admin discretion. This includes using technical pauses for tactical purposes and exceeding the total duration/total use limits of their technical pauses. In order to report the offending team, the opposing team must first tell them to unpause in match chat; this serves as the former's only warning. If there is continued misuse or the warning is not quickly heeded, the incident may be reported through a general (mod/admin) ticket. The game shall continue and be played out if possible. A vote of at least all admins but one will result in a retroactive forfeit.
 
 &emsp;
 
@@ -54,15 +56,13 @@
 
     - **6.2.1.2**&emsp;If a player has connection issues prior to all players being ready, there is an extra server available for use. This will be on a first come, first serve basis, and will be located in Dallas.
 
-- **6.2.2**&emsp;The map selection for the game will come to a veto vote where the captain of each team will switch off vetoing maps in the following format: Team A, Team B, Team B, Team A, Team B, then Team A will choose between the final two maps.
+- **6.2.2**&emsp;The maps for regular-season games are decided by a veto vote. The captains of each team alternate map vetoes such that the Away Team bans first and the Home Team chooses between the final two maps. Starting sides are decided by a knife round.
 
-    - **6.2.2.1**&emsp;The home team functions as Team A; the Away team functions as Team B.
+- **6.2.3**&emsp;The maps for any best-of-1 playoff matches follow the regular-season map veto order, with the higher-seeded team choosing whether to veto first or second. Starting sides are decided by a knife round.
 
-- **6.2.3**&emsp;During playoffs, the better seeded team will choose whether they veto first or second. The order is as follows: veto-veto, pick-pick, veto-veto, with one map remaining. One team selects their starting side on their opponent’s map pick. Map 3 is decided by a knife round.
+- **6.2.4**&emsp;For best-of-3 games, the higher-seeded team will choose whether they veto first or second. The order is as follows: veto-veto, pick-pick, veto-veto, with one map remaining. Each team selects their starting side on their opponent’s map pick. Starting sides for map 3 are decided by a knife round.
 
-- **6.2.4**&emsp;A knife round will occur to determine which team selects the side they want to start on in the preseason, regular season, and map 3 of the playoffs.
-
-- **6.2.5**&emsp;If for any reason a server restart occurs, the outcomes of previous map veto selections, knife rounds, or side selections must be duplicated as they had been determined.
+- **6.2.5**&emsp;In the case of a server restart, the outcomes of any previous map vetoes, knife rounds, or side selections must be replicated, unless the server was restarted to correct an unintended selection. Both teams must consent to any change unless it is a mandated outcome (e.g. team that should get side choice in playoffs winning knife round).
 
 - **6.2.6**&emsp;Teams MUST join/start their match server at game time, unless otherwise agreed upon for another time by the respective GMs and they have notified the League Staff in their respective transaction channels.
 

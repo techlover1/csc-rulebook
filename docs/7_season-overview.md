@@ -46,7 +46,7 @@
 
 - **7.1.14**&emsp;If a GM or their representative does not select a pick in a reasonable timeframe as determined by League Staff or is unable to continue the draft, their pick will be selected by League Staff each round based on the highest available MMR player.
 
-- **7.1.15**&emsp;The draft is held live on Twitch. All GMs are required to be present in the GM Room Discord channel (or another channel as indicated by League Staff) for the duration of the draft. See Section 1.1.13 for when a GM cannot be present.
+- **7.1.15**&emsp;The draft is held live on Twitch. All GMs are required to be present in the GM Room Discord channel (or another channel as indicated by League Staff) for the duration of the draft. See [Section 1.1.13](1_introduction.md#11-what-are-the-requirements-to-join) for when a GM cannot be present.
 
 ### 7.2 Draft Lottery
 
@@ -124,17 +124,23 @@
 
 ### 10.1 General Playoff Info
 
-- **10.1.1**&emsp;Playoffs will begin on the first match day at the conclusion of the regular season in a tier.
+- **10.1.1**&emsp;Playoffs will generally begin on the first match day at the conclusion of the regular season in a tier.
 
 - **10.1.2**&emsp;Each tier will play in their own separate playoffs. 
 
-- **10.1.3**&emsp;During the postseason, the higher seed is the home team, and will decide whether they want to veto first or second.
+- **10.1.3**&emsp;During the postseason, the higher seed is the home team, and will decide whether they want to veto first or second. If there is no higher seed, then the teams will be tiebroken according to tiebreaker rules [9.1.4](7_season-overview.md#regular-season) but ignoring conference record.
 
-    - **10.1.3.1**&emsp;Veto rules are outlined above in Rule 6.2.3.
+    - **10.1.3.1**&emsp;Veto rules are outlined above in [Rule 6.2.3](6_gameplay-rules.md#62-game-servers).
 
-- **10.1.4**&emsp;The playoffs will be played in a Best of 3 format.
+- **10.1.4**&emsp;Admins will determine the specific playoff format for each tier at the beginning of each season. Different formats may be used, but the following structure should always be followed:
 
-- **10.1.5**&emsp;The Finals will be set up similar to the rest of the playoffs with a Best of 3 structure.
+    - **10.1.4.1**&emsp;At least 50% of the teams in each tier participate in the post-season
+
+    - **10.1.4.2**&emsp;The finals are Bo3
+
+    - **10.1.4.3**&emsp;All games follow normal gameplay and transaction rules for playoffs.
+
+- **10.1.5**&emsp;During playoffs a team may have only one active temp at a time.
 
 &emsp;
 
@@ -150,7 +156,7 @@
 
 - **10.3.1**&emsp;After the playoffs, there will be an offseason.
 
-    - **10.3.1.1**&emsp;During this offseason, any new players which have signed up for the league will be evaluated by League Staff and entered into the draft for the next season. See the draft rules in Section 1.1.
+    - **10.3.1.1**&emsp;During this offseason, any new players which have signed up for the league will be evaluated by League Staff and entered into the draft for the next season. See the draft rules in [Section 1.1](1_introduction.md#11-what-are-the-requirements-to-join).
 
     - **10.3.1.2**&emsp;Transactions are closed until a future date, decided by the admins, between the start of combines and the next preseason. However for the duration of combines there will be an "Early" Transaction Window, GMs may cut and re-sign their players from the previous season outside of the normal transactions window.
 
