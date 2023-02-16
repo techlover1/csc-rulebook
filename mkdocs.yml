@@ -1,6 +1,20 @@
 site_name: CSC Rulebook
-site_url: https://rulebook.csconfederation.com
-theme: readthedocs
+site_url: https://techlover1.github.io/rulebook/
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 nav:
     - 1 - Introduction: 1_introduction.md
     - 2 - League Info: 2_league-info.md
